@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "dependencies": {
     "chai": "^4.3.4",
     "express": "^4.17.1",
@@ -6,4 +7,12 @@
     "nock": "^13.1.3",
     "supertest": "^6.1.6"
   }
+=======
+  "name": "testproject",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "author": "petkovici",
+  "license": "MIT"
+>>>>>>> 0bae2db (Fist commit)
 }
